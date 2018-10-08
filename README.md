@@ -1,4 +1,5 @@
 <authors>
+    
     <author>
         <name>H. P. Lovecraft<name>
         <birth-date>20/08/1890<birth-date>
@@ -16,4 +17,5 @@
         <birth-date>12/16/1928<birth-date>
         <date-of-death>03/02/1982<date-of-death>
     <author>
+    
 </authors>
